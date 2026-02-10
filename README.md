@@ -5,7 +5,7 @@ This directory contains the LayerCover Protocol Whitepaper, the "Golden Master" 
 ## Accessing the Whitepaper
 
 - **PDF Version**: You can view the whitepaper online at [whitepaper.layercover.com/Whitepaper.pdf](https://whitepaper.layercover.com/Whitepaper.pdf)
-- **Source**: The source text is maintained in `../whitepaper-1.txt`.
+
 
 ## Purpose
 
